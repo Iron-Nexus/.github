@@ -1,3 +1,1 @@
-- ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Nexus&layout=compact)
-- ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Iron-Nexus)
-- ![My stats](https://github-readme-stats.vercel.app/api?username=Iron-Nexus&count_private=true&show_icons=true)
+- higuys
